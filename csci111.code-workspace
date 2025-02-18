@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../csci111"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ostream": "cpp",
+			"iostream": "cpp"
+		},
+		"window.autoDetectColorScheme": true
+	}
+}
