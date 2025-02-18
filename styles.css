@@ -346,6 +346,7 @@ mark[data-annotation-id]::after {
   --sky-blue: #56b4e9;
   --reddish-purple: #cc79a7;
 }
+/* why did they even make this? they literally never call any of these and use default color values instead, or the actual #. */
 div.sticky {
  position: -webkit-sticky;
  position: sticky;
